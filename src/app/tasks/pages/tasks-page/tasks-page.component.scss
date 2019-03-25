@@ -1,0 +1,10 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  .task-list {
+    width: 45%;
+  }
+  .task-form {
+    width: 45%;
+  }
+}
